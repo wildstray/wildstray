@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wildstray
-- 👀 I’m interested in hacking, networking, security, embedded devices, digital electronics, low level development...
-- 📫 I'm available to be hired and to provice adviced.
+- 👀 I’m interested in hacking, networking, security, embedded devices, digital electronics, low level development.
+- 📫 I'm available to be hired and to provide advice. Contact me at andrea ( at ) tuccia ( dot ) it
 
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
