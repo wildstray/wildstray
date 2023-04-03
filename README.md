@@ -8,8 +8,8 @@
 
 - 🐺 Hi, I’m [@wildstray](https://github.com/wildstray/)
 - 👀 I’m interested in hacking, networking, security, embedded devices, digital electronics, low level development.
-- 📫 I'm available to be hired and to provide advice. Contact me (for full remote jobs only) at andrea ( at ) tuccia ( dot ) it
-- 🍺 Free and Open Source Software. Free as in freedom, not free as in free beer. 
+- 📫 I'm available to be hired. Contact me (for full remote jobs only) at andrea ( at ) tuccia ( dot ) it or on [LinkedIn](https://www.linkedin.com/in/lonewolf/)
+- 🍺 I'm a Free and Open Source Software contributor. Free as in freedom, not free as in free beer. 
 
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
